@@ -1,6 +1,4 @@
 # Work Showcase: Machine Learning Demonstration
-In this demonstration
-
 In this demonstration I'll conduct machine learning to make determinations on climates utilizing different methods and Python packages. Additionally, I will conduct machine learning using two different primary modes: vectorizing location names and analyzing latitudes and longitudes. For both of these means I will utilize the same methods to demonstrate their effectivity in this context. The area of interest for this program is using neural networks as a predictor on a given location for what the climate in the region may look like. As climate change becomes an increasingly important issue, having accurate, unbiased assessors like this model will become more and more useful.
 
 ## Data Clean-Up / Organization
